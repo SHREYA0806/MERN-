@@ -1,0 +1,30 @@
+.p {
+  margin-left: 5px;
+}
+.c {
+  background-color: #2bbbad;
+}
+.size {
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.gallary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px 40px;
+}
+
+.item {
+  width: 40%;
+  margin-bottom: 20px;
+}
+
+.home-card {
+  max-width: 450px;
+  height: max-content;
+  margin: 25px auto;
+}
